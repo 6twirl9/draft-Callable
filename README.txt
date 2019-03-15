@@ -15,3 +15,5 @@ Take advantage of Python's introspection, specifically, the inspect module.
 
   => t-FOO.py
 
+VIM required to "see" the code as intended with fold merkers === & ///.
+
