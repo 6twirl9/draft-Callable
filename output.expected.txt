@@ -1,0 +1,13 @@
+
+Original:
+(0, 1, 2, 3, (), 4, 5, {})
+
+Modified: reordered & redefined
+(1, 0, 2, 3, (), 4, 105, {})
+
+Modified: reordered & redefined [HELD] -> lambda
+<function F.__call__.<locals>.<lambda> at 0x10b4806a8>
+
+        : "call" it again!
+(100, 1, 0, 3, (), 4, 105, {})
+
